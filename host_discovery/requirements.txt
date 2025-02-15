@@ -1,0 +1,4 @@
+- You MUST have sudo permissions in order to run this tool.
+- You MUST have python3 or newer versions.
+- ping3 MUST be installed in order to run this tool.
+    (command: pip3 install ping3 OR pip install ping3).
